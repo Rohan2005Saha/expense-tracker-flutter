@@ -1,0 +1,62 @@
+# Flutter / Dart / Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+doc/api/
+
+# Generated platform files
+**/ios/Flutter/.last_build_id
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.pid
+*.seed
+*.stackdump
+
+# Build and language artifacts
+*.class
+*.pyc
+
+# Tooling and local-only folders
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Flutter symbolication / obfuscation outputs
+app.*.symbols
+app.*.map.json
+
+# Android build outputs
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Firebase app configuration files are intentionally tracked
+!android/app/google-services.json
+!ios/Runner/GoogleService-Info.plist

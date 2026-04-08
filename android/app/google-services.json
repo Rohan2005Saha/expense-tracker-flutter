@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428789085827",
+    "project_id": "expense-mate-101eb",
+    "storage_bucket": "expense-mate-101eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428789085827:android:b646f9e4333fce3ff28db6",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMN913oQh-5J-zRB0pNK4ElYhEiVqAXcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
